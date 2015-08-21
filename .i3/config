@@ -160,3 +160,7 @@ bar {
 	}
 }
 
+exec --no-startup-id nm-applet
+
+client.unfocused        #000000 #000000 #666666 #000000
+client.focused          #333333 #222222 #ffffff #292d2e
